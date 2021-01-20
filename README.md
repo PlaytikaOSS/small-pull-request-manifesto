@@ -81,8 +81,8 @@ How-to
 ------
 
 For splitting big changes in the code into smaller, manageable parts - you can use Mikado method.
-<https://www.youtube.com/watch?v=r3HEbpFC9nY&ab_channel=MikalaiAlimenkou>
-<https://www.manning.com/books/the-mikado-method>
+ - <https://www.youtube.com/watch?v=r3HEbpFC9nY&ab_channel=MikalaiAlimenkou>
+ - <https://www.manning.com/books/the-mikado-method>
 
 Links
 -----
